@@ -5,4 +5,4 @@ a non admin user can talk with the driver, that's good news!
 Compile veyon for windows is a lot of pain... And it may not be a good idea...  
 Since the driver is accesible for non local users could use the IOCTL_WRITE to do some kind of unlock  
 acl bypass due to the lack of FILE_DEVICE_SECURE_OPEN?  
-after all, the lock application is just a gui application... restart explorer.exe sendmessage wm_close
+after all, the lock application is just a gui application... restart explorer.exe sendmessage wm_close... enjoy!
