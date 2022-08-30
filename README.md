@@ -5,3 +5,4 @@ a non admin user can talk with the driver, that's good news!
 Compile veyon for windows is a lot of pain... And it may not be a good idea...  I love windows, veyon why do you do this?
 Since the driver is accesible for non admin users, we can use the IOCTL_WRITE to do some kind of unlock or maybe detect the lock.  
 after all, the lock application is just a gui application... we can close it manually but not using sendmessage since veyon-worker runs with privileges...
+pyautogui seems to be the answer
