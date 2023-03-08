@@ -1,4 +1,6 @@
 # AntiScreenLockVeyon
+This solution is not generic and it depends on your screen coordinates, opened programs, etc.
+It's still better than nothing but I don't like it at all it requires a lot of previous setup.
 Studying interception driver...  
 https://github.com/veyon/veyon/pull/622/files/81a3ec6456118d5c819ac68507fbf63555442c92 xd  
 a non admin user can talk with the driver, that's good news!
